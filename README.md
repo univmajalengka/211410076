@@ -6,4 +6,4 @@ Muhammad Fahmi Ajiz
 
 Course List
 
-Sistem Basis Data Lanjut
+Sistem Basis Data
